@@ -1,0 +1,6 @@
+/*
+ * Vite entry stylesheet.
+ * The Blade layout currently ships its page styles inline and loads Bootstrap via CDN,
+ * so this file exists to satisfy the Laravel Vite build input.
+ */
+
